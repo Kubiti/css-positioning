@@ -1,0 +1,36 @@
+* {
+    margin: 0;
+    padding: 0;
+}
+
+.outer {
+    width: 600px;
+    height: 600px;
+    background-color: aqua;
+}
+
+.inner {
+    height: 100px;
+    width: 500px;
+    /* margin: 0 auto; */
+}
+
+.first {
+    background-color: blueviolet;
+}
+
+.second {
+    background-color: cornflowerblue;
+}
+
+.third {
+    background-color: darksalmon;
+}
+
+.fourth {
+    background-color: blanchedalmond;
+}
+
+.fifth {
+    background-color: magenta;
+}
